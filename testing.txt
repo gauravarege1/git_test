@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 before soft reset i am adding new line
-second file 
-=======
->>>>>>> parent of a051320 (first_commit)
+
