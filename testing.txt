@@ -1,0 +1,3 @@
+before soft reset i am adding new line
+addine new line for soft reset testing
+addding a new line for mixed reset testing
