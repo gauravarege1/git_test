@@ -1,2 +1,4 @@
 before soft reset i am adding new line
 file confilt merg
+second file 
+
